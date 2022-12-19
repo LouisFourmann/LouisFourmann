@@ -51,7 +51,6 @@
   
 [![Arya's github stats](https://github-readme-stats.vercel.app/api?username=LouisFourmann&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisFourmann&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
 
-
 <Br>
 <h1>Merci! 🤵 </h1>
 <Br>
