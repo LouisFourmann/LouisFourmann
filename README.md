@@ -22,7 +22,7 @@
 <Br>
   
   
-|![](https://img.shields.io/badge/Travail%d'Equipe20-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Auto%20Didacte-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Gestion%20De%20Projet-brightgreen?style=for-the-badge)|
+|![](https://img.shields.io/badge/Travail%20d'Equipe-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Auto%20Didacte-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Gestion%20De%20Projet-brightgreen?style=for-the-badge)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Programmation%20Algorithmique-blue?style=for-the-badge)|![](https://img.shields.io/badge/Programmation%20Système-blue?style=for-the-badge)|![](https://img.shields.io/badge/Et%20plus%20Encore!-yellow?style=for-the-badge)|
   
