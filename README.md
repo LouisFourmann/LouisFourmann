@@ -2,9 +2,9 @@
 <Br>
 <h1>A propos! 😎</h1>
 
-- 🏫: Je suis étudiant en 3ème année à Epitech Bordeaux (2020-2025).
-- 🌱: Actuellement entrain de réaliser la partie mobile de mon projet de fin d'étude. 💻
-- 💬: Venez me voir pour toutes offres de stage entre Avril-Juillet 2023 !
+- 🏫: J'ai réalisé 3 ans d'études à Epitech Bordeaux !
+- 🌱: Actuellement entrain de réaliser mon projet d'autoentrepeneur dans le développement Web Back-End. 💻
+- 💬: Venez me voir pour toutes missions ou questions, je serais ravi d'y répondre !
 - 😄  Pronoms: He/Him.
 
 <hr>
